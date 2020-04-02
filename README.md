@@ -10,6 +10,9 @@ Detection and Recognition of faces using ML Classification Algorithms, Neural Ne
 6) Implement a Siamese Network (Didn't train it)
 
 The above implementations can be found in [Faces.ipynb](Faces.ipynb) and [Siamese_network.ipynb](Siamese_network.ipynb)
+
+I have also made a video for explaining the [https://youtu.be/3Kqd5SJbG7s](PHASE 1)
+
 ## Phase 2
 7) Face Detection and recognition on the webcam. (Done using python library face_recognition)
 
