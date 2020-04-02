@@ -9,7 +9,7 @@ Detection and Recognition of faces using ML Classification Algorithms, Neural Ne
 5) Building the same neural network using PyTorch
 6) Implement a Siamese Network (Didn't train it)
 
-The above implementations can be found in faces.ipynb
+The above implementations can be found in faces.ipynb and Siamese_network.ipynb
 ## Phase 2
 7) Face Detection and recognition on the webcam. (Done using python library face_recognition)
 
