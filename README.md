@@ -11,7 +11,7 @@ Detection and Recognition of faces using ML Classification Algorithms, Neural Ne
 
 The above implementations can be found in [Faces.ipynb](Faces.ipynb) and [Siamese_network.ipynb](Siamese_Network.ipynb)
 
-I have also made a video for explaining the [a https://youtu.be/3Kqd5SJbG7s](PHASE 1)
+I have also made a video for explaining the [PHASE 1](https://youtu.be/3Kqd5SJbG7s)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3Kqd5SJbG7s/0.jpg)](https://www.youtube.com/watch?v=3Kqd5SJbG7s)
 
